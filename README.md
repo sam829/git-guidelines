@@ -6,9 +6,7 @@ This repository contains comprehensive guidelines and reference materials for so
 ## 📂 Repository Contents
 
 ### 1. Commit Message Guidelines
-- Detailed guide for writing clear, consistent commit messages
-- Includes best practices, examples, and recommended formats
-- Covers various commit types and scopes
+- [Commit Message Guidelines](/commit-message-guidelines.md)
 
 **Key Features:**
 - Commit message template
@@ -17,8 +15,7 @@ This repository contains comprehensive guidelines and reference materials for so
 - Best practices for writing descriptive commits
 
 ### 2. Pull Request (PR) Guidelines
-- Comprehensive guide for creating and managing pull requests
-- Provides templates, labeling strategies, and review processes
+- [Pull Request Guidelines](/pr-guidelines.md)
 
 **Key Components:**
 - PR title and description templates
@@ -27,8 +24,7 @@ This repository contains comprehensive guidelines and reference materials for so
 - PR creation and review checklists
 
 ### 3. Git Cheat Sheet
-- Advanced Git operations and workflows
-- Detailed explanations of complex Git concepts
+- [Git Advanced Operations Cheat Sheet](/git-cheat-sheet.md)
 
 **Covered Topics:**
 - Branching strategies
@@ -42,17 +38,17 @@ This repository contains comprehensive guidelines and reference materials for so
 ## 🚀 How to Use
 
 ### Commit Messages
-- Follow the commit message guidelines for all repository contributions
+- Follow the [Commit Message Guidelines](/commit-message-guidelines.md)
 - Use the provided template and type categories
 - Focus on clarity and specificity
 
 ### Pull Requests
-- Use the PR description template when creating new PRs
+- Use the [PR Description Template](/pr-guidelines.md)
 - Follow the labeling and review guidelines
 - Ensure comprehensive description of changes
 
 ### Git Operations
-- Refer to the Git cheat sheet for advanced operations
+- Refer to the [Git Cheat Sheet](/git-cheat-sheet.md) for advanced operations
 - Use the scenarios and best practices as a reference
 
 ## 🤝 Contributing
