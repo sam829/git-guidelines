@@ -19,11 +19,11 @@
 ### Examples
 
 #### Good PR Titles
-- `feat(auth): Add multi-factor authentication`
-- `fix(payment): Resolve credit card validation bug`
-- `refactor(user-profile): Optimize data management`
-- `docs(readme): Update installation instructions`
-- `perf(search): Improve query performance`
+- `[feat][auth]: Add multi-factor authentication`
+- `[fix][payment]: Resolve credit card validation bug`
+- `[refactor][user-profile]: Optimize data management`
+- `[docs][readme]: Update installation instructions`
+- `[perf][search]: Improve query performance`
 
 #### Bad PR Titles
 - `Updates`
