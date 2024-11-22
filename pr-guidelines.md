@@ -13,7 +13,7 @@
 
 ### Format
 ```
-<type>(<scope>): Short, clear description of changes
+[<type>][<scope>]: Short, clear description of changes
 ```
 
 ### Examples
